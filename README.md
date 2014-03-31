@@ -1,0 +1,4 @@
+newproject
+==========
+
+myscripttest
